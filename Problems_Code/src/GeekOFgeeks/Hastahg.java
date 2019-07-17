@@ -3,24 +3,18 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Ev;
-
-import java.util.List;
+package GeekOFgeeks;
 
 /**
  *
- * @author droro
+ * @author Daniel Rojas  danielRoj
  */
 public class Hastahg {
     public static void main(String[] args) {
        
      int value = 73;
      
-     int maxNota = 100;
-     
-       
-     
-   int base = ((value/10) * 10) + 10;
+     int base = ((value/10) * 10) + 10;
      
    
    if(value>40){
